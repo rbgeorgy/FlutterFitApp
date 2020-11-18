@@ -28,6 +28,7 @@ dependencies:
   provider: ^4.3.2+2
   fluttertoast: ^7.1.1
   firebase_core : ^0.5.0
+  curved_navigation_bar: ^0.3.4
 
 
   # The following adds the Cupertino Icons font to your application.
